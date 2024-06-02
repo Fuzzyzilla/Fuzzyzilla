@@ -1,4 +1,6 @@
 ## Hi, I'm Aspen 🐑
+[![itch.io page](https://itch.io/favicon.ico)](https://fuzzyzilla.itch.io/)
+---
 
 An open-source critter with a particular interest in graphics programming and a propensity for tiny native software.
 
